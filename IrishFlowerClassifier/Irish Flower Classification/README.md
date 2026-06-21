@@ -55,11 +55,11 @@ This project was built as **Task 1** of a data science internship series. It cov
 ## 🗂️ Project Structure
 
 ```
-iris-flower-classification/
+Iris Flower Classification/
 │
-├── Task1.ipynb              # Main Jupyter Notebook
+├── IrishFlowerClassification.ipynb              # Main Jupyter Notebook
 ├── outputs/
-│   └── task1_iris_classification.png   # Saved 10-panel dashboard
+│   └── task1_iris_classification.png(some other output png file added)   # Saved 10-panel dashboard
 ├── requirements.txt         # Python dependencies
 ├── .gitignore               # Files to exclude from Git
 ├── LICENSE                  # MIT License
