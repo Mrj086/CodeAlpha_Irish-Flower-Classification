@@ -1,12 +1,12 @@
 # 🌸 Iris Flower Classification
 
-A complete machine learning project that classifies Iris flowers into three species — *Setosa*, *Versicolor*, and *Virginica* — using six classification algorithms with full visualizations, cross-validation, ROC curves, and learning curve analysis.
+A complete machine learning project that classifies Iris flowers into three species — *Setosa*, *Versicolor*, and *Virginica* — using six classification algorithms with full visualisations, cross-validation, ROC curves, and learning curve analysis.
 
 ---
 
 ## 📌 Project Overview
 
-This project was built as **Task 1** of a data science internship series. It covers the full ML pipeline: data loading, exploratory analysis, feature engineering, model training, evaluation, and multi-panel visualization — all on the classic Iris dataset.
+This project was built as **Task 1** of a data science internship series. It covers the full ML pipeline: data loading, exploratory analysis, feature engineering, model training, evaluation, and multi-panel visualisation all on the classic Iris dataset.
 
 ---
 
@@ -16,7 +16,7 @@ This project was built as **Task 1** of a data science internship series. It cov
 - Engineer derived features (petal area, sepal area, petal/sepal ratios)
 - Train and compare six classification models
 - Evaluate using accuracy, precision, recall, F1-score, ROC-AUC, and cross-validation
-- Visualize insights through a 10-panel analysis dashboard
+- Visualise insights through a 10-panel analysis dashboard
 
 ---
 
@@ -171,9 +171,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 🙋 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+Md. Miraj-Ul-Islam
+- GitHub: [@Mrj086](https://github.com/Mrj086)
+- LinkedIn: [www.linkedin.com/in/md-miraj-ul-islam-77b30b26a)
 
 ---
 
