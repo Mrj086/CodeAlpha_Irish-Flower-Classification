@@ -172,9 +172,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 🙋 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+**Md. Miraj-Ul-Islam**
+- GitHub: [@Mrj086](https://github.com/Mrj086)
+- LinkedIn: [[your-linkedin](https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/md-miraj-ul-islam-77b30b26a/))
 
 ---
 
