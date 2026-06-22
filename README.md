@@ -55,15 +55,16 @@ This project was built as **Task 1** of a data science internship series. It cov
 ## 🗂️ Project Structure
 
 ```
-iris-flower-classification/
-│
-├── Task1.ipynb              # Main Jupyter Notebook
-├── outputs/
-│   └── task1_iris_classification.png   # Saved 10-panel dashboard
-├── requirements.txt         # Python dependencies
-├── .gitignore               # Files to exclude from Git
-├── LICENSE                  # MIT License
-└── README.md                # Project documentation
+CodeAlpha_Irish-Flower-Classification/
+├── Irish Flower Classification/         # Main project folder
+│   ├── Iris.csv                         # Dataset file
+│   ├── IrishFlowerClassification.py     # Python script
+│   └── IrishFlowerClassification.ipynb  # Jupyter Notebook
+    └──Outputs(.png)
+├── LICENSE                              # License file
+├── README.md                            # Documentation
+└── requirements.txt                     # Dependencies
+
 ```
 
 ---
