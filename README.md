@@ -176,6 +176,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 - GitHub: [@Mrj086](https://github.com/Mrj086)
 - LinkedIn:(https://www.linkedin.com/in/md-miraj-ul-islam-77b30b26a/)
 
----
 
-*Built with Python 3.x · scikit-learn · matplotlib · seaborn*
+
